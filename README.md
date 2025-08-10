@@ -74,4 +74,5 @@ node index.js
 
 - Refactorizar el código para evitar repetición y mejorar mantenimiento.
 - Agregar sistema de comentarios para los videos, permitiendo interacción entre usuarios.
+- Ratelimit / mejorar Cors
 
