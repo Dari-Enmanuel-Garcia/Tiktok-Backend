@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cloudinary": "^1.41.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.1",
+    "express-sanitizer": "^1.0.6",
+    "firebase": "^11.6.0",
+    "firebase-admin": "^13.2.0",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.13.1",
+    "mongoose-paginate-v2": "^1.9.0",
+    "nodemailer": "^7.0.5",
+    "winston": "^3.17.0",
+    "zod": "^3.24.2"
+  }
+}
